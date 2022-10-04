@@ -1,2 +1,2 @@
 # StoryApp2
-# Sub 2 Intermediate
+Sub 2 Intermediate
